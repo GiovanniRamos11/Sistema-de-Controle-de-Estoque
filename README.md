@@ -9,11 +9,11 @@
 ## 📖 **Aprendizados**
 - Uso básico de JavaScript para interatividade
 
--Organização e controle de dados simples (estoque)
+- Organização e controle de dados simples (estoque)
 
--Conhecimento prático em ERP Winthor e processos logísticos
+- Conhecimento prático em ERP Winthor e processos logísticos
 
--Noções de automação de tarefas e controle de estoque
+- Noções de automação de tarefas e controle de estoque
 
 - Armazenamento de dados no navegador
 
