@@ -3,10 +3,18 @@
 
 ## 🛠 **Tecnologias**
 - HTML
-- CSS
+- ERP
 - JavaScript (LocalStorage)
 
 ## 📖 **Aprendizados**
-- Manipulação de DOM
+- Uso básico de JavaScript para interatividade
+
+-Organização e controle de dados simples (estoque)
+
+-Conhecimento prático em ERP Winthor e processos logísticos
+
+-Noções de automação de tarefas e controle de estoque
+
 - Armazenamento de dados no navegador
+
 - Estruturação de interfaces intuitivas
